@@ -1,0 +1,415 @@
+[
+{
+  "orderId": "3030160e-9880-4fb5-8936-25894747c7a7",
+  "orderDate": "2024-04-11T10:50:37",
+  "productionTime": "20:00:00",
+  "pickUpDate": "2024-03-27T10:30:00",
+  "orderTotal": 182.5,
+  "customer": {
+    "customerId": "276370",
+    "customerName": "Dummy",
+    "emailAddress": "dummy@codeplzwork.kz",
+    "phoneNumber": "123456",
+    "address": {
+      "addressLine": "Very nice street 1",
+      "city": "Amsterdam",
+      "postalCode": "2525CM"
+    }
+  },
+  "shoppingBasket": {
+    "customer": {
+      "customerId": "276370",
+      "customerName": "Dummy",
+      "emailAddress": "dummy@codeplzwork.kz",
+      "phoneNumber": "123456",
+      "address": {
+        "addressLine": "Very nice street 1",
+        "city": "Amsterdam",
+        "postalCode": "2525CM"
+      }
+    },
+    "orderItemList": [
+      {
+        "photoId": "8",
+        "itemName": "Canvas 100 x 150 high gloss",
+        "price": 72.5,
+        "workingHours": "16:00:00"
+      },
+      {
+        "photoId": "9",
+        "itemName": "Glass 30 x 40 mat",
+        "price": 27.5,
+        "workingHours": "14:00:00"
+      },
+      {
+        "photoId": "11",
+        "itemName": "Glass 100 x 150 mat",
+        "price": 82.5,
+        "workingHours": "20:00:00"
+      }
+    ]
+  }
+},
+{
+  "orderId": "cd0b659f-0ba8-4145-8517-ca8e8089e49d",
+  "orderDate": "2024-04-11T10:52:39",
+  "productionTime": "16:00:00",
+  "pickUpDate": "2024-03-27T10:30:00",
+  "orderTotal": 105.70000000000002,
+  "customer": {
+    "customerId": "400029",
+    "customerName": "Henk",
+    "emailAddress": "jemoederheethenk@calco.nl",
+    "phoneNumber": "12345567",
+    "address": {
+      "addressLine": "shalomstraat 69",
+      "city": "Kuzec",
+      "postalCode": "1234KL"
+    }
+  },
+  "shoppingBasket": {
+    "customer": {
+      "customerId": "400029",
+      "customerName": "Henk",
+      "emailAddress": "jemoederheethenk@calco.nl",
+      "phoneNumber": "12345567",
+      "address": {
+        "addressLine": "shalomstraat 69",
+        "city": "Kuzec",
+        "postalCode": "1234KL"
+      }
+    },
+    "orderItemList": [
+      {
+        "photoId": "6",
+        "itemName": "Canvas 30 x 40 high gloss",
+        "price": 27.5,
+        "workingHours": "12:00:00"
+      },
+      {
+        "photoId": "8",
+        "itemName": "Canvas 100 x 150 high gloss",
+        "price": 72.5,
+        "workingHours": "16:00:00"
+      },
+      {
+        "photoId": "2",
+        "itemName": "Paper 10 x 15 high gloss",
+        "price": 1.5,
+        "workingHours": "01:00:00"
+      },
+      {
+        "photoId": "1",
+        "itemName": "Paper 10 x 15 mat",
+        "price": 1.4,
+        "workingHours": "01:00:00"
+      },
+      {
+        "photoId": "1",
+        "itemName": "Paper 10 x 15 mat",
+        "price": 1.4,
+        "workingHours": "01:00:00"
+      },
+      {
+        "photoId": "1",
+        "itemName": "Paper 10 x 15 mat",
+        "price": 1.4,
+        "workingHours": "01:00:00"
+      }
+    ]
+  }
+},{
+  "orderId": "774e09ab-acb5-4ec7-b29e-f107c5f590d5",
+  "orderDate": "2024-04-11T11:06:38",
+  "productionTime": "20:00:00",
+  "pickUpDate": "2024-03-27T10:30:00",
+  "orderTotal": 198.75,
+  "customer": {
+    "customerId": "058207",
+    "customerName": "Spannend of het wel werkt",
+    "emailAddress": "heelspannend@ofhetwelwerkt.nl",
+    "phoneNumber": "123456",
+    "address": {
+      "addressLine": "straatnaam 6",
+      "city": "Dummystad",
+      "postalCode": "3456 CM"
+    }
+  },
+  "shoppingBasket": {
+    "customer": {
+      "customerId": "058207",
+      "customerName": "Spannend of het wel werkt",
+      "emailAddress": "heelspannend@ofhetwelwerkt.nl",
+      "phoneNumber": "123456",
+      "address": {
+        "addressLine": "straatnaam 6",
+        "city": "Dummystad",
+        "postalCode": "3456 CM"
+      }
+    },
+    "orderItemList": [
+      {
+        "photoId": "5",
+        "itemName": "Canvas 30 x 40 mat",
+        "price": 24.0,
+        "workingHours": "12:00:00"
+      },
+      {
+        "photoId": "6",
+        "itemName": "Canvas 30 x 40 high gloss",
+        "price": 27.5,
+        "workingHours": "12:00:00"
+      },
+      {
+        "photoId": "7",
+        "itemName": "Canvas 100 x 150 mat",
+        "price": 64.75,
+        "workingHours": "16:00:00"
+      },
+      {
+        "photoId": "11",
+        "itemName": "Glass 100 x 150 mat",
+        "price": 82.5,
+        "workingHours": "20:00:00"
+      }
+    ]
+  }
+}
+,{
+  "orderId": "09a711c4-0cff-4f2f-9b0d-5d9ac6980ab3",
+  "orderDate": "2024-04-11T11:28:41",
+  "productionTime": "16:00:00",
+  "pickUpDate": "2024-03-27T10:30:00",
+  "orderTotal": 91.65,
+  "customer": {
+    "customerId": "095601",
+    "customerName": "Dummy Another one",
+    "emailAddress": "bitesthedust@queen.nl",
+    "phoneNumber": "123456",
+    "address": {
+      "addressLine": "Engelse weg 4",
+      "city": "Oude Pekela",
+      "postalCode": "4567RD"
+    }
+  },
+  "shoppingBasket": {
+    "customer": {
+      "customerId": "095601",
+      "customerName": "Dummy Another one",
+      "emailAddress": "bitesthedust@queen.nl",
+      "phoneNumber": "123456",
+      "address": {
+        "addressLine": "Engelse weg 4",
+        "city": "Oude Pekela",
+        "postalCode": "4567RD"
+      }
+    },
+    "orderItemList": [
+      {
+        "photoId": "5",
+        "itemName": "Canvas 30 x 40 mat",
+        "price": 24.0,
+        "workingHours": "12:00:00"
+      },
+      {
+        "photoId": "2",
+        "itemName": "Paper 10 x 15 high gloss",
+        "price": 1.5,
+        "workingHours": "01:00:00"
+      },
+      {
+        "photoId": "1",
+        "itemName": "Paper 10 x 15 mat",
+        "price": 1.4,
+        "workingHours": "01:00:00"
+      },
+      {
+        "photoId": "7",
+        "itemName": "Canvas 100 x 150 mat",
+        "price": 64.75,
+        "workingHours": "16:00:00"
+      }
+    ]
+  }
+}
+,{
+  "orderId": "d8c4370a-a25a-41df-bf48-515b7224d4af",
+  "orderDate": "2024-04-15T16:54:55",
+  "productionTime": "16:00:00",
+  "pickUpDate": "2024-04-16T09:00:55",
+  "orderTotal": 96.75,
+  "customer": {
+    "customerId": "382203",
+    "customerName": "Andrey Bogatov",
+    "emailAddress": "brutaleborat@plzpickupdateworkokay.kz",
+    "phoneNumber": "123456",
+    "address": {
+      "addressLine": "Koelkastlaan 69",
+      "city": "Amsterdam",
+      "postalCode": "105CM"
+    }
+  },
+  "shoppingBasket": {
+    "customer": {
+      "customerId": "382203",
+      "customerName": "Andrey Bogatov",
+      "emailAddress": "brutaleborat@plzpickupdateworkokay.kz",
+      "phoneNumber": "123456",
+      "address": {
+        "addressLine": "Koelkastlaan 69",
+        "city": "Amsterdam",
+        "postalCode": "105CM"
+      }
+    },
+    "orderItemList": [
+      {
+        "photoId": "7",
+        "itemName": "Canvas 100 x 150 mat",
+        "price": 64.75,
+        "workingHours": "16:00:00"
+      },
+      {
+        "photoId": "10",
+        "itemName": "Glass 30 x 40 high gloss",
+        "price": 27.5,
+        "workingHours": "14:00:00"
+      },
+      {
+        "photoId": "3",
+        "itemName": "Paper 30 x 40 mat",
+        "price": 4.5,
+        "workingHours": "02:00:00"
+      }
+    ]
+  }
+}
+,{
+  "orderId": "468493d2-0c47-4382-8992-36028c0b8bde",
+  "orderDate": "2024-04-15T16:59:42",
+  "productionTime": "20:00:00",
+  "pickUpDate": "2024-04-16T12:59:42",
+  "orderTotal": 82.5,
+  "customer": {
+    "customerId": "703245",
+    "customerName": "Evatskja",
+    "emailAddress": "evaka@ineedthiscodetowork.nl",
+    "phoneNumber": "1235466",
+    "address": {
+      "addressLine": "Weg is weg 4",
+      "city": "Hogwarts",
+      "postalCode": "4533VB"
+    }
+  },
+  "shoppingBasket": {
+    "customer": {
+      "customerId": "703245",
+      "customerName": "Evatskja",
+      "emailAddress": "evaka@ineedthiscodetowork.nl",
+      "phoneNumber": "1235466",
+      "address": {
+        "addressLine": "Weg is weg 4",
+        "city": "Hogwarts",
+        "postalCode": "4533VB"
+      }
+    },
+    "orderItemList": [
+      {
+        "photoId": "12",
+        "itemName": "Glass 100 x 150 high gloss",
+        "price": 82.5,
+        "workingHours": "20:00:00"
+      }
+    ]
+  }
+}
+,{
+  "orderId": "18f710c5-143c-4e8a-90d6-e5dd39232244",
+  "orderDate": "2024-04-16T15:04:52",
+  "productionTime": "14:00:00",
+  "pickUpDate": "2024-04-17T09:00:52",
+  "orderTotal": 32.5,
+  "customer": {
+    "customerId": "551235",
+    "customerName": "Spongebob Squarepants",
+    "emailAddress": "spongebob@nickelodeon.com",
+    "phoneNumber": "12345",
+    "address": {
+      "addressLine": "Krusty Crab 7",
+      "city": "Bikini Bottom",
+      "postalCode": "4567SW"
+    }
+  },
+  "shoppingBasket": {
+    "customer": {
+      "customerId": "551235",
+      "customerName": "Spongebob Squarepants",
+      "emailAddress": "spongebob@nickelodeon.com",
+      "phoneNumber": "12345",
+      "address": {
+        "addressLine": "Krusty Crab 7",
+        "city": "Bikini Bottom",
+        "postalCode": "4567SW"
+      }
+    },
+    "orderItemList": [
+      {
+        "photoId": "9",
+        "itemName": "Glass 30 x 40 mat",
+        "price": 27.5,
+        "workingHours": "14:00:00"
+      },
+      {
+        "photoId": "4",
+        "itemName": "Paper 30 x 40 high gloss",
+        "price": 5.0,
+        "workingHours": "02:00:00"
+      }
+    ]
+  }
+}
+,{
+  "orderId": "72037ad3-25a9-46b3-844a-41f24efe4a4f",
+  "orderDate": "2024-04-16T15:38:01",
+  "productionTime": "16:00:00",
+  "pickUpDate": "2024-04-17T09:00:52",
+  "orderTotal": 100.0,
+  "customer": {
+    "customerId": "865080",
+    "customerName": "Eva",
+    "emailAddress": "eva@gmail.com",
+    "phoneNumber": "1234",
+    "address": {
+      "addressLine": "Stationsstraat 4",
+      "city": "Amsterdam",
+      "postalCode": "3456"
+    }
+  },
+  "shoppingBasket": {
+    "customer": {
+      "customerId": "865080",
+      "customerName": "Eva",
+      "emailAddress": "eva@gmail.com",
+      "phoneNumber": "1234",
+      "address": {
+        "addressLine": "Stationsstraat 4",
+        "city": "Amsterdam",
+        "postalCode": "3456"
+      }
+    },
+    "orderItemList": [
+      {
+        "photoId": "8",
+        "itemName": "Canvas 100 x 150 high gloss",
+        "price": 72.5,
+        "workingHours": "16:00:00"
+      },
+      {
+        "photoId": "10",
+        "itemName": "Glass 30 x 40 high gloss",
+        "price": 27.5,
+        "workingHours": "14:00:00"
+      }
+    ]
+  }
+}
+]
